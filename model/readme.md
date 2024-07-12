@@ -1,0 +1,1 @@
+https://www.kaggle.com/models/tensorflow/spam-detection/tfJs/tfjs/1?tfhub-redirect=true
